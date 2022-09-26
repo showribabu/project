@@ -1,0 +1,21 @@
+
+body{
+    background-image:url('./download.jfif');
+    background-size: 100%;
+}
+
+.image{
+    color:white;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 30px;
+    background-color:black;
+    width:200;
+    border-radius: 18px;
+}
+.image:hover{
+    letter-spacing: 4;
+    opacity:0.7;
+    color:yellow;
+    transition: all;
+}
